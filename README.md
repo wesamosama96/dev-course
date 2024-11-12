@@ -1,2 +1,2 @@
 # dev-course
-for get course 
+for learn
